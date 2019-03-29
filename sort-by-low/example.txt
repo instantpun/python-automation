@@ -1,0 +1,10 @@
+vendor,interfaceID,throughput
+c3745,interface10,774916
+cn7000,interface3,230059
+cxr,interface7,11345609
+cn7000,interface3,982359
+cn3359,interface2,Null
+cn7000,interface19,1123792
+cn7000,interface22,20879
+cn7000,interface8,5520879
+
