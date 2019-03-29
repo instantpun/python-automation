@@ -1,8 +1,13 @@
-# working with file parsing
+# working with file parsing and sorting algorithms
+# GOAL:
+# read file and determine which interface has the lowest throughput associated with it.
+
 import time
 
 start = time.time()
-with open("example.txt", "r") as myfile:
+
+# A little more complicated, but we could easily turn this into a function as well, and pass it any file
+with open("example.csv", "r") as myfile:
 	#print(myfile)
 	innerstart = time.time()
 	mylist = []	
